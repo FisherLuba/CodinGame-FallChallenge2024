@@ -1,4 +1,4 @@
-# CodinGame Fall 2024 Challenge
+[CodinGame Fall 2024 Challenge](https://www.codingame.com/multiplayer/optimization/selenia-city)
 
 I don't have much time to work on it because of college so my code is not optimized and I probably won't have time to finish it.
 Right now the code doesn't even use the teleporters.
